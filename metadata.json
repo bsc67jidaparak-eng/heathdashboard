@@ -1,0 +1,6 @@
+{
+  "name": "Health Overview Dashboard",
+  "description": "แดชบอร์ดภาพรวมสุขภาพและการวิเคราะห์ความเสี่ยงสุขภาพ เชื่อมโยงข้อมูล Google Sheet โดย นางสาวจิดาภา รักไร่ โทนสีชมพูทันสมัย",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
